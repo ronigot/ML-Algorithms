@@ -1,4 +1,3 @@
-# Roni Gotlib 322805029
 import sys
 import numpy as np
 
