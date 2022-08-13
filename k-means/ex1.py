@@ -1,4 +1,3 @@
-# Roni Gotlib 322805029
 from matplotlib import pyplot as plt
 import numpy as np
 import sys
